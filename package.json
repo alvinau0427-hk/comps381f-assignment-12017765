@@ -1,0 +1,16 @@
+{
+	"name": "comps381f-assignment-12017765",
+	"description": "COMPS381F - Take Home Assignment",
+	"author": "Au Chi Chung <12017765@ouhk.edu.hk>",
+	"version": "0.0.1",
+	"dependencies": {
+		"express": "latest",
+		"ejs": "latest",
+		"formidable": "latest",
+		"exif": "latest"
+	},
+	"scripts": {
+		"start": "node server.js"
+	},
+	"engine": "node >= 0.10.0"
+}
