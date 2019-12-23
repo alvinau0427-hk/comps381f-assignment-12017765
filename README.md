@@ -9,7 +9,7 @@ This assignment replaces the final exam.  Please read submission instructions be
 
 ### Installing
 ```
-npm installe
+npm install
 ```
 ### Running
 ```
